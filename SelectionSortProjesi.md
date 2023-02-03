@@ -24,7 +24,7 @@ Worst case: Aradığımız sayının sonda olması durumu: [27,22,18,16,6,2]
 
 Best case: Aradığımız sayının dizinin en başında olması durumu: [2,6,16,18,22,27]
 
-	> 18 sayısı [2,6,16,18,22,27] dizisinin ortalarında bulunduğundan dolayı "Average case" kapsamına girer.
+> 18 sayısı [2,6,16,18,22,27] dizisinin ortalarında bulunduğundan dolayı "Average case" kapsamına girer.
 
 
 - [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
